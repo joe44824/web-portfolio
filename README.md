@@ -1,6 +1,6 @@
 # 🌟 Joe's Professional Portfolio
 
-A modern, responsive web portfolio showcasing my work experience, education, skills, and certifications. Built with cutting-edge web technologies for optimal performance and user experience.
+A modern, responsive web portfolio showcasing my work experience, education, skills, and certifications. Built with React for optimal performance and user experience.
 
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
