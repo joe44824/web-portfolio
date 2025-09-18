@@ -1,4 +1,4 @@
-# 🌟 Peter's Professional Portfolio
+# 🌟 Joe's Professional Portfolio
 
 A modern, responsive React web portfolio showcasing my work experience, education, skills, and certifications. Built with cutting-edge web technologies for optimal performance and user experience.
 
