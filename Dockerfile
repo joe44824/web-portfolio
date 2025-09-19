@@ -4,7 +4,7 @@ FROM node:18-alpine AS build
 WORKDIR /app
 
 # Copy package files from src directory
-COPY src/package*.json ./
+COPY src/src/package*.json ./
 RUN npm install
 
 # Copy only the src directory for build
