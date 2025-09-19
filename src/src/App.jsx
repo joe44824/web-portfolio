@@ -5,6 +5,8 @@ import Footer from "./sections/Footer";
 import Certificates from "./sections/Certificate";
 import Contact from "./sections/Contact";
 
+// Test
+
 const App = () => {
   return (
     <div>
